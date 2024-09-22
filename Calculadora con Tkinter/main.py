@@ -1,5 +1,5 @@
 import tkinter as tk
-import messagebox
+from tkinter import messagebox
 
 
 def mostrar_error():
