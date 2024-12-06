@@ -1,12 +1,12 @@
 print("""
        **************************************
        *       'CIFRADO DE MENSAJES'        * 
-       *         'FES Aragón UNAM'          *
-       *      'Ingeniería en Computación'   *
-       *     Azuara Ocotitla Arturo Ivan    *
-       *    Monroy Quintero Eliezer Isaí    *
-       *   Padron Cortes Monica Alessandra  *
-       *       Villela Andrade Aksel        *
+       *                                    *
+       *          'IMPLEMENTANDO'           *
+       *                                    *
+       *          'ALGORITMO RSA'           *
+       *                                    *
+       *                                    *
        **************************************
     """)
 
